@@ -95,9 +95,9 @@
 	* [Mycat](middle-software/mycat.md)
 	* [tsharding](middle-software/tsharding.md)
 	* [tddl](https://github.com/alibaba/tb_tddl)
-	* [sharding-jdbc](middle-software/sharding-jdbc.md)
+	* [当当网sharding-jdbc](middle-software/sharding-jdbc.md)
 	* [dbsplit](https://gitee.com/robertleepeak/dbsplit)
-	* [Oceanus](https://github.com/58code/Oceanus)
+	* [58同城Oceanus](https://github.com/58code/Oceanus)
 
 *	分布式协调服务
 	* [zookeeper](middle-software/zookeeper.md)
@@ -116,6 +116,9 @@
 	* [Elastic-Job](https://github.com/elasticjob/elastic-job)
 	* [详解当当网的分布式作业框架elastic-job](http://www.infoq.com/cn/articles/dangdang-distributed-work-framework-elastic-job)
 	* [TBSchedule](http://blog.csdn.net/taosir_zhang/article/details/50728362)
+	* [唯品会Saturn](https://github.com/vipshop/Saturn)
+	* [XXL-JOB](https://www.oschina.net/p/xxl-job)
+	* [antares](https://github.com/ihaolin/antares)
 
 *   大数据
 	* [Hbase](middle-software/Hbase.md)
