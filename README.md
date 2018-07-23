@@ -105,17 +105,17 @@
 *   配置管理
 
 	* [super-diamond](other/super-diamond源码分析.md)
-	* [disconf](https://www.oschina.net/p/disconf)
-	* [apollo](middle-software/apollo.md)
+	* [百度disconf](https://www.oschina.net/p/disconf)
+	* [携程apollo）](middle-software/apollo.md)
 
 *   分布式文件系统
 	* [FastDFS](middle-software/FastDFS.md)
 
 *   分布式任务调度框架
 
-	* [Elastic-Job](https://github.com/elasticjob/elastic-job)
+	* [当当网Elastic-Job](https://github.com/elasticjob/elastic-job)
 	* [详解当当网的分布式作业框架elastic-job](http://www.infoq.com/cn/articles/dangdang-distributed-work-framework-elastic-job)
-	* [TBSchedule](http://blog.csdn.net/taosir_zhang/article/details/50728362)
+	* [淘宝早期TBSchedule](http://blog.csdn.net/taosir_zhang/article/details/50728362)
 	* [唯品会Saturn](https://github.com/vipshop/Saturn)
 	* [XXL-JOB](https://www.oschina.net/p/xxl-job)
 	* [antares](https://github.com/ihaolin/antares)
