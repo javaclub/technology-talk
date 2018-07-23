@@ -97,6 +97,7 @@
 	* [tddl](https://github.com/alibaba/tb_tddl)
 	* [sharding-jdbc](middle-software/sharding-jdbc.md)
 	* [dbsplit](https://gitee.com/robertleepeak/dbsplit)
+	* [Oceanus](https://github.com/58code/Oceanus)
 
 *	分布式协调服务
 	* [zookeeper](middle-software/zookeeper.md)
