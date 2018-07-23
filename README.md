@@ -98,6 +98,7 @@
 	* [当当网sharding-jdbc](middle-software/sharding-jdbc.md)
 	* [dbsplit](https://gitee.com/robertleepeak/dbsplit)
 	* [58同城Oceanus](https://github.com/58code/Oceanus)
+	* [mybatis-shards](https://github.com/makersoft/mybatis-shards)
 
 *	分布式协调服务
 	* [zookeeper](middle-software/zookeeper.md)

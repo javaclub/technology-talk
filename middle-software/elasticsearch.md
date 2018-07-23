@@ -12,6 +12,7 @@
 
 ### 社区资料
 
+* [Elasticsearch安装与维护](https://github.com/jaywcjlove/handbook/blob/master/CentOS/Elasticsearch%E5%AE%89%E8%A3%85%E7%BB%B4%E6%8A%A4.md)
 * [Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)（中文翻译版，主要讲一些基础知识）
 * [Elasticsearch Reference](https://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-ngram-tokenizer.html)（英文版，内容比较全）
 * [Elastic中文社区](https://github.com/elasticsearch-cn)
