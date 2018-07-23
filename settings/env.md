@@ -1,8 +1,6 @@
 ## 环境配置与软件安装
 ---
 
-*	[Git多个账号的配置和在eclipse中的应用](https://github.com/jadmin/notes/blob/master/docs/eclipse-muti-account-for-git-client.md)
-
 
 
 Linux

@@ -171,7 +171,10 @@
 	* [java面试题](other/java-interview.md)
 	* [大数据面试题](other/bigdata-interview.md)
 *	[回车与换行的区别](other/回车与换行的区别.md)
-*   [github上fork项目后，如何同步更新后面提交](http://blog.csdn.net/qq1332479771/article/details/56087333)
+*	Git
+	* [github上fork项目后，如何同步更新后面提交](http://blog.csdn.net/qq1332479771/article/details/56087333)
+	* [Git多个账号的配置和在eclipse中的应用](https://github.com/jadmin/notes/blob/master/docs/eclipse-muti-account-for-git-client.md)
+	* [从一个git仓库提交代码到另一个git仓库](https://www.jianshu.com/p/a88eca528187)
 
 ### 写在后面
 
