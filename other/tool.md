@@ -13,6 +13,5 @@
 * [亿图-------EdrawMax]()
 
 
-mac系统
 
-* [Homebrew安装](http://www.jianshu.com/p/d229ac7fe77d)
+

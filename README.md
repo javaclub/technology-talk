@@ -164,6 +164,7 @@
 
 ### 其它
 
+*	[环境配置与安装](settings/env.md)
 *	[常用软件工具](other/tool.md)
 *	[一致性hash算法](other/一致性hash.md)
 *   面试
