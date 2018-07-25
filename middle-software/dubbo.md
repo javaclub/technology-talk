@@ -65,6 +65,13 @@
 * 集群容错: 提供基于接口方法的透明远程过程调用，包括多协议支持，以及软负载均衡，失败容错，地址路由，动态配置等集群支持。
 * 自动发现: 基于注册中心目录服务，使服务消费方能动态的查找服务提供方，使地址透明，使服务提供方可以平滑增加或减少机器。
 
+### 网络资源
+
+* [Dubbo底层之Netty](https://www.cnblogs.com/songxh-scse/p/6692301.html)
+* [DUBBO / Netty 交互](http://blog.51cto.com/mindoverflow/1764791)
+* 问题排查解决
+	* [Netty 3.5.8 + Dubbo 2.5.3 引起的错误处理](http://www.mcdao.com/netty-3-5-8-dubbo-2-5-3-yinqidecuowuchuli.html)
+
 #### 常见问题：
 
 1、dubbo默认有重试机制（2次），结合自己的业务是否需要重试，不必要的重试可能会导致脏数据。
