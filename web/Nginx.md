@@ -5,7 +5,7 @@
 
 * [nginx+lua](http://jinnianshilongnian.iteye.com/blog/2186448)
 * [Nginx配置文件及模块](https://mp.weixin.qq.com/s/YrC8aPZHtDlDL2Fqku2fbA)
-* [Nginx SSL+tomcat集群,request.getScheme()取到https正确的协议](http://note.youdao.com/noteshare?id=d3ea3aa5abfb9ac01ef94268642394ed)
+* [Nginx SSL+tomcat集群,request.getScheme()取到https正确的协议](https://note.youdao.com/share/?id=d3ea3aa5abfb9ac01ef94268642394ed&type=note#/)
 
 ---
 
