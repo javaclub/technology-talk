@@ -62,6 +62,9 @@ zk支持单机、集群两种模式。
 *	ZkClient
 *	[Curator](http://blog.csdn.net/dc_726/article/details/46475633)
 
+**可视化的WebUI：**
+
+*	[zkui](https://segmentfault.com/a/1190000011593006)
 
 #### ZkClient 介绍
 
