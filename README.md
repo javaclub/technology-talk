@@ -51,7 +51,7 @@
 
 ### 安全/风控
 
-* [风控相关]((risk/risk.md))
+* [风控相关](risk/risk.md)
 * [web开发中防止SQL注入](https://www.cnblogs.com/shenbuer/p/7875419.html)
 
 
