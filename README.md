@@ -53,6 +53,8 @@
 
 * [风控相关](risk/risk.md) 
 * [web开发中防止SQL注入](https://www.cnblogs.com/shenbuer/p/7875419.html)
+* [web安全笔记](https://www.cnblogs.com/happyframework/p/3458966.html)
+
 
 
 ### 常用三方工具包
