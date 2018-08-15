@@ -56,8 +56,14 @@ SACC 2016 互联网安全和风控体系 会议分享(京东、爱奇艺、美�
 
 拼多多：https://www.lagou.com/jobs/3458578.html?source=position_rec&i=position_rec-2
 
-橙鹰
 
+
+PPT分享资源
+
+* [从零打造千万级的 实时⻛控云服务](https://github.com/yangliang1415/awesome-risk-control/blob/master/some_share_ppt/%E4%BB%8E%E9%9B%B6%E6%89%93%E9%80%A0%E5%8D%83%E4%B8%87%E7%BA%A7%E7%9A%84%20%E5%AE%9E%E6%97%B6%E2%BB%9B%E6%8E%A7%E4%BA%91%E6%9C%8D%E5%8A%A1.pdf)
+* [支付宝风控实践](https://github.com/yangliang1415/awesome-risk-control/blob/master/some_share_ppt/%E6%94%AF%E4%BB%98%E5%AE%9D%E9%A3%8E%E6%8E%A7%E5%AE%9E%E8%B7%B5-2014.pdf)
+* [美团业务风控系统构建经验](https://github.com/yangliang1415/awesome-risk-control/blob/master/some_share_ppt/%E7%BE%8E%E5%9B%A2%E4%B8%9A%E5%8A%A1%E9%A3%8E%E6%8E%A7%E7%B3%BB%E7%BB%9F%E6%9E%84%E5%BB%BA%E7%BB%8F%E9%AA%8C.pdf)
+* [程序员的成长](https://github.com/yangliang1415/awesome-risk-control/blob/master/some_share_ppt/%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E6%88%90%E9%95%BF.pdf)
 
 
 ```
